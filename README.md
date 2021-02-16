@@ -13,3 +13,5 @@ CRUD operation Demo using React hooks, context and sp-pnp-js to add edit and del
    - add this script tag to refer to your site assets
    <script type="text/javascript" src="your_sharepoint_url/SiteAssets/react-pnp.js"></script>
 8. done!   
+
+![image](https://user-images.githubusercontent.com/14894667/108130821-1f0ebf00-7065-11eb-857d-a6273f6c1103.png)

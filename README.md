@@ -1,6 +1,6 @@
 # CRUD-spfx-react-hooks
 
-CRUD operation Demo using React hooks, context and sp-pnp-js to add edit and delete a custom sharepoint list
+CRUD operation Demo using React hooks, context and PnP-JS-Core to add edit and delete a custom sharepoint list
 
 1. Build file using npm run build
 2. React files are bundled into one single js file called "react-pnp.js"

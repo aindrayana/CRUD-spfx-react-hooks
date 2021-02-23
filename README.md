@@ -15,3 +15,10 @@ CRUD operation Demo using React hooks, context and PnP-JS-Core to add edit and d
 8. done!   
 
 ![image](https://user-images.githubusercontent.com/14894667/108130821-1f0ebf00-7065-11eb-857d-a6273f6c1103.png)
+
+
+
+9. not actually done yet :) create a custom list with columns below and use its ID on your code
+![image](https://user-images.githubusercontent.com/14894667/108792815-04da5280-7537-11eb-8fc4-9829653d082a.png)
+
+10. finally done!

@@ -12,13 +12,8 @@ CRUD operation Demo using React hooks, context and PnP-JS-Core to add edit and d
 7. on Script Editor, Edit Web Part > Edit Snippet
    - add this script tag to refer to your site assets
    ```<script type="text/javascript" src="your_sharepoint_url/SiteAssets/react-pnp.js"></script>```
-8. done!   
-
-![image](https://user-images.githubusercontent.com/14894667/108130821-1f0ebf00-7065-11eb-857d-a6273f6c1103.png)
-
-
-
-9. not actually done yet :) create a custom list with columns below and use its ID on your code
+8. next, create a custom list with columns below and use its ID on your code
 ![image](https://user-images.githubusercontent.com/14894667/108792815-04da5280-7537-11eb-8fc4-9829653d082a.png)
 
-10. and thats it! yay!
+9. 
+![image](https://user-images.githubusercontent.com/14894667/108130821-1f0ebf00-7065-11eb-857d-a6273f6c1103.png)
